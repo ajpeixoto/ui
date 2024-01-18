@@ -1,5 +1,11 @@
 # @talend/react-forms
 
+## 12.6.1
+
+### Patch Changes
+
+- 5269331: TDOPS-5854 - Fix MultiSelectTag widget to remove border from Typeahead component
+
 ## 12.6.0
 
 ### Minor Changes
